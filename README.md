@@ -1,4 +1,4 @@
-# STUDENT TASK: CONFERENCE REGISTRATION FORM
+# CONFERENCE REGISTRATION FORM
 This is a registration form created using HTML. It's a type of form with a set of fields that can be used by businesses and organizations to collect information from individuals who want to participate in an event, program, or other activity. It allows for a more efficient and organized way of gathering information compared to traditional paper forms.
 
 ## Table of Content
